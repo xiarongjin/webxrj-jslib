@@ -1,0 +1,13 @@
+{
+  "name": "webxrj-jslib",
+  "version": "1.0.1",
+  "description": "thank for use webxrj-slib",
+  "scripts": {},
+  "author": "webxrj",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "script-loader": "^0.7.2",
+    "xlsx": "^0.17.5"
+  }
+}
